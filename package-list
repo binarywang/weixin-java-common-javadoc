@@ -1,0 +1,14 @@
+me.chanjar.weixin.common.annotation
+me.chanjar.weixin.common.api
+me.chanjar.weixin.common.bean
+me.chanjar.weixin.common.bean.menu
+me.chanjar.weixin.common.bean.result
+me.chanjar.weixin.common.exception
+me.chanjar.weixin.common.session
+me.chanjar.weixin.common.util
+me.chanjar.weixin.common.util.crypto
+me.chanjar.weixin.common.util.fs
+me.chanjar.weixin.common.util.http
+me.chanjar.weixin.common.util.json
+me.chanjar.weixin.common.util.res
+me.chanjar.weixin.common.util.xml
