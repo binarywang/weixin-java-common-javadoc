@@ -12,3 +12,4 @@ me.chanjar.weixin.common.util.http
 me.chanjar.weixin.common.util.json
 me.chanjar.weixin.common.util.res
 me.chanjar.weixin.common.util.xml
+me.chanjar.weixin.cp.bean.article
