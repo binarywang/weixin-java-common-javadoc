@@ -1,9 +1,10 @@
+me.chanjar.weixin.common
 me.chanjar.weixin.common.annotation
 me.chanjar.weixin.common.api
 me.chanjar.weixin.common.bean
 me.chanjar.weixin.common.bean.menu
 me.chanjar.weixin.common.bean.result
-me.chanjar.weixin.common.exception
+me.chanjar.weixin.common.error
 me.chanjar.weixin.common.session
 me.chanjar.weixin.common.util
 me.chanjar.weixin.common.util.crypto
