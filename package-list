@@ -4,7 +4,10 @@ me.chanjar.weixin.common.api
 me.chanjar.weixin.common.bean
 me.chanjar.weixin.common.bean.menu
 me.chanjar.weixin.common.bean.result
+me.chanjar.weixin.common.enums
 me.chanjar.weixin.common.error
+me.chanjar.weixin.common.redis
+me.chanjar.weixin.common.service
 me.chanjar.weixin.common.session
 me.chanjar.weixin.common.util
 me.chanjar.weixin.common.util.crypto
@@ -14,5 +17,6 @@ me.chanjar.weixin.common.util.http.apache
 me.chanjar.weixin.common.util.http.jodd
 me.chanjar.weixin.common.util.http.okhttp
 me.chanjar.weixin.common.util.json
+me.chanjar.weixin.common.util.locks
 me.chanjar.weixin.common.util.res
 me.chanjar.weixin.common.util.xml
