@@ -1,12 +1,14 @@
-me.chanjar.weixin.common
 me.chanjar.weixin.common.annotation
 me.chanjar.weixin.common.api
 me.chanjar.weixin.common.bean
+me.chanjar.weixin.common.bean.imgproc
 me.chanjar.weixin.common.bean.menu
+me.chanjar.weixin.common.bean.ocr
 me.chanjar.weixin.common.bean.result
 me.chanjar.weixin.common.enums
 me.chanjar.weixin.common.error
 me.chanjar.weixin.common.redis
+me.chanjar.weixin.common.requestexecuter.ocr
 me.chanjar.weixin.common.service
 me.chanjar.weixin.common.session
 me.chanjar.weixin.common.util
