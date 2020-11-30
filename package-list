@@ -3,6 +3,7 @@ me.chanjar.weixin.common.api
 me.chanjar.weixin.common.bean
 me.chanjar.weixin.common.bean.imgproc
 me.chanjar.weixin.common.bean.menu
+me.chanjar.weixin.common.bean.oauth2
 me.chanjar.weixin.common.bean.ocr
 me.chanjar.weixin.common.bean.result
 me.chanjar.weixin.common.enums
